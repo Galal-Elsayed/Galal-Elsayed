@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **galalelsayed.dev@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1aHHdH_9X8SkM9025CPtJBZwHr1Taaw7g/view?usp=drive_link](https://drive.google.com/file/d/1aHHdH_9X8SkM9025CPtJBZwHr1Taaw7g/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1n-h-UI2LDe9D574TvwZ1pg8GeEmxCKi5/view?usp=sharing](https://drive.google.com/file/d/1n-h-UI2LDe9D574TvwZ1pg8GeEmxCKi5/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
