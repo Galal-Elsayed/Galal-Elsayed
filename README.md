@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://galalelsayed.vercel.app/](https://galalelsayed.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://galalelsayed.vercel.app/](https://galalelsayed.dev/)
 
 - 📫 How to reach me **galalelsayed.dev@gmail.com**
 
