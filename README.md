@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Galal Elsayed</h1>
 <h3 align="center">A passionate Frontend developer from Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=galal-elsayed&label=Profile%20views&color=0e75b6&style=flat" alt="galal-elsayed" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=galal-elsayed" alt="galal-elsayed" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://galalelsayed.dev/](https://galalelsayed.dev/)
